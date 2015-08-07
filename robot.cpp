@@ -48,11 +48,6 @@ int main(){
 				cout<<"No Ditch\n";
 				break;				
 			}
-			if(f[i]==4 && b[i]==9 && t[i]==3){
-			  cout<<"231 B\n";
-			  break;
-			}
-			
 		}
 		
 	}
