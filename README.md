@@ -36,26 +36,28 @@ First move will always be in forward direction
     All input values must be positive integers only
 ---------------------------------------
 #Input
-3
-9 4 3 13 10 
-9 7 1 11 13
-4 4 3 8 12
+3<br>
+9 4 3 13 10 <br>
+9 7 1 11 13<br>
+4 4 3 8 12<br>
+
 #Output	
-63 F
-25 F
-No Ditch
+63 F<br>
+25 F<br>
+No Ditch<br>
 -------------------------------------
 #Input
-5
-8 4 7 11 22
-4 5 4 25 6
-4 9 3 6 29
-7 10 6 24 12
-10 10 1 9 7
+5<br>
+8 4 7 11 22<br>
+4 5 4 25 6<br>
+4 9 3 6 29<br>
+7 10 6 24 12<br>
+10 10 1 9 7<br>
 	
 #Output	
-133 F
-216 B
-231 B
-408 B
-9 F
+133 F<br>
+216 B<br>
+231 B<br>
+408 B<br>
+9 F<br>
+--------------------------------------------
