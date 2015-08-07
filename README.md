@@ -22,6 +22,7 @@ For each test case print time taken by the Robot to fall in the ditch and also s
 OR
 
 Print No Ditch if the Robot does not fall in either ditch
+
 -----------------------------------------------------------------------------------------
 Constraints:
 
@@ -34,6 +35,7 @@ First move will always be in forward direction
     distance of ditch in forward direction (FD) > 0
     distance of ditch in backward direction (BD) > 0
     All input values must be positive integers only
+    
 ---------------------------------------
 #Input
 3<br>
@@ -45,6 +47,7 @@ First move will always be in forward direction
 63 F<br>
 25 F<br>
 No Ditch<br>
+
 -------------------------------------
 #Input
 5<br>
@@ -60,4 +63,5 @@ No Ditch<br>
 231 B<br>
 408 B<br>
 9 F<br>
+
 --------------------------------------------
