@@ -8,7 +8,6 @@ int main(){
 		cin>>f[i]>>b[i]>>t[i]>>fd[i]>>bd[i];
 		   //fwd back time fwd_ditch back_ditch
 	}
-	
 	for(int i=0;i<n;i++){
 		int init=0;
 		int newinit=0;
@@ -49,7 +48,6 @@ int main(){
 				break;				
 			}
 		}
-		
 	}
 	return 0;
 }
